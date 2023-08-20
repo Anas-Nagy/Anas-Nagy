@@ -5,4 +5,4 @@ for i in range(len(Camel_case)):
         x = x.replace(Camel_case[i], ("_"+ Camel_case[i]))
 x = x.lower()
 print(x)
-print
+
