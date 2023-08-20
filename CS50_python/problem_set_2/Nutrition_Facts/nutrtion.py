@@ -1,4 +1,4 @@
-x = input("Item:").capitalize().strip()
+x = input("Item:").title().strip()
 food = {
       "Apple": 130, "Avocado": 50, "Banana": 110, "Cantaloupe": 50, "Grapefruit": 60, "Grapes": 90,
       "HoneydewMelon": 50, "Kiwifruit": 90, "Lemon": 15, "Lime": 15, "Nectarine": 60, "Orange": 80, "Peach": 60,
